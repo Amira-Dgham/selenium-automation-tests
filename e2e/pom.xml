@@ -13,7 +13,7 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <!-- Versions centralisées -->
+        <!-- Centralized Versions -->
         <junit.version>5.10.2</junit.version>
         <selenium.version>4.25.0</selenium.version>
         <cucumber.version>7.28.0</cucumber.version>
